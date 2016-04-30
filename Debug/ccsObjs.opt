@@ -1,0 +1,1 @@
+"./Main_sandbox/I2C.obj" "./Main_sandbox/SparkFun_APDS9960.obj" "./Main_sandbox/functions.obj" "./Main_sandbox/main.obj" "./Main_sandbox/sha2.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
